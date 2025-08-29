@@ -1,0 +1,225 @@
+Date,Category,Vendor,Amount,Notes
+2023-01-03,Rent,CitySpaces,1527.85,Rent for January 2023
+2023-01-03,Payroll,Staff Salaries,6474.42,Payroll for January 2023
+2023-01-03,Marketing,SocialBuzz,1201.55,Marketing for January 2023
+2023-01-03,Utilities,WaterWorks,452.78,Utilities for January 2023
+2023-01-03,Software,Microsoft,303.9,Software for January 2023
+2023-01-03,Shipping,Postal,704.22,Shipping for January 2023
+2023-01-03,Miscellaneous,OfficeMart,311.36,Miscellaneous for January 2023
+2023-02-03,Rent,ABC Properties,1477.17,Rent for February 2023
+2023-02-03,Payroll,Staff Salaries,6672.22,Payroll for February 2023
+2023-02-03,Marketing,AdWorks,1211.67,Marketing for February 2023
+2023-02-03,Utilities,PowerCo,492.92,Utilities for February 2023
+2023-02-03,Software,Adobe,318.6,Software for February 2023
+2023-02-03,Shipping,Postal,639.07,Shipping for February 2023
+2023-02-03,Miscellaneous,General Supplies,344.17,Miscellaneous for February 2023
+2023-03-03,Rent,ABC Properties,1453.3,Rent for March 2023
+2023-03-03,Payroll,Staff Salaries,6497.17,Payroll for March 2023
+2023-03-03,Marketing,AdWorks,1199.64,Marketing for March 2023
+2023-03-03,Utilities,GasGrid,477.52,Utilities for March 2023
+2023-03-03,Software,Microsoft,305.32,Software for March 2023
+2023-03-03,Shipping,FastShip,786.14,Shipping for March 2023
+2023-03-03,Miscellaneous,General Supplies,358.44,Miscellaneous for March 2023
+2023-04-03,Rent,CitySpaces,1375.41,Rent for April 2023
+2023-04-03,Payroll,Staff Salaries,6196.27,Payroll for April 2023
+2023-04-03,Marketing,SocialBuzz,1272.45,Marketing for April 2023
+2023-04-03,Utilities,GasGrid,377.36,Utilities for April 2023
+2023-04-03,Software,Microsoft,259.62,Software for April 2023
+2023-04-03,Shipping,Postal,700.75,Shipping for April 2023
+2023-04-03,Miscellaneous,OfficeMart,383.28,Miscellaneous for April 2023
+2023-05-03,Rent,CitySpaces,1696.06,Rent for May 2023
+2023-05-03,Payroll,Staff Salaries,6358.88,Payroll for May 2023
+2023-05-03,Marketing,SocialBuzz,1327.3,Marketing for May 2023
+2023-05-03,Utilities,PowerCo,453.25,Utilities for May 2023
+2023-05-03,Software,CloudSuite,254.06,Software for May 2023
+2023-05-03,Shipping,DHL,699.43,Shipping for May 2023
+2023-05-03,Miscellaneous,OfficeMart,328.34,Miscellaneous for May 2023
+2023-06-03,Rent,CitySpaces,1637.73,Rent for June 2023
+2023-06-03,Payroll,Staff Salaries,6483.31,Payroll for June 2023
+2023-06-03,Marketing,AdWorks,1046.65,Marketing for June 2023
+2023-06-03,Utilities,PowerCo,382.51,Utilities for June 2023
+2023-06-03,Software,Adobe,299.37,Software for June 2023
+2023-06-03,Shipping,FastShip,530.58,Shipping for June 2023
+2023-06-03,Miscellaneous,OfficeMart,331.86,Miscellaneous for June 2023
+2023-07-03,Rent,CitySpaces,1534.65,Rent for July 2023
+2023-07-03,Payroll,Staff Salaries,5812.94,Payroll for July 2023
+2023-07-03,Marketing,AdWorks,1319.28,Marketing for July 2023
+2023-07-03,Utilities,GasGrid,503.6,Utilities for July 2023
+2023-07-03,Software,CloudSuite,269.5,Software for July 2023
+2023-07-03,Shipping,FastShip,679.14,Shipping for July 2023
+2023-07-03,Miscellaneous,General Supplies,384.81,Miscellaneous for July 2023
+2023-08-03,Rent,ABC Properties,1499.8,Rent for August 2023
+2023-08-03,Payroll,Staff Salaries,5593.59,Payroll for August 2023
+2023-08-03,Marketing,SocialBuzz,1182.8,Marketing for August 2023
+2023-08-03,Utilities,WaterWorks,411.62,Utilities for August 2023
+2023-08-03,Software,Microsoft,333.25,Software for August 2023
+2023-08-03,Shipping,FastShip,742.42,Shipping for August 2023
+2023-08-03,Miscellaneous,OfficeMart,339.02,Miscellaneous for August 2023
+2023-09-03,Rent,CitySpaces,1521.32,Rent for September 2023
+2023-09-03,Payroll,Staff Salaries,5649.72,Payroll for September 2023
+2023-09-03,Marketing,AdWorks,1109.55,Marketing for September 2023
+2023-09-03,Utilities,WaterWorks,519.9,Utilities for September 2023
+2023-09-03,Software,Adobe,301.61,Software for September 2023
+2023-09-03,Shipping,FastShip,765.11,Shipping for September 2023
+2023-09-03,Miscellaneous,General Supplies,358.12,Miscellaneous for September 2023
+2023-10-03,Rent,CitySpaces,1697.14,Rent for October 2023
+2023-10-03,Payroll,Staff Salaries,5200.76,Payroll for October 2023
+2023-10-03,Marketing,SocialBuzz,1177.41,Marketing for October 2023
+2023-10-03,Utilities,PowerCo,524.02,Utilities for October 2023
+2023-10-03,Software,CloudSuite,328.69,Software for October 2023
+2023-10-03,Shipping,FastShip,792.78,Shipping for October 2023
+2023-10-03,Miscellaneous,General Supplies,349.76,Miscellaneous for October 2023
+2023-11-03,Rent,ABC Properties,1419.43,Rent for November 2023
+2023-11-03,Payroll,Staff Salaries,5832.34,Payroll for November 2023
+2023-11-03,Marketing,AdWorks,1442.3,Marketing for November 2023
+2023-11-03,Utilities,GasGrid,486.32,Utilities for November 2023
+2023-11-03,Software,CloudSuite,315.4,Software for November 2023
+2023-11-03,Shipping,Postal,938.71,Shipping for November 2023
+2023-11-03,Miscellaneous,General Supplies,367.79,Miscellaneous for November 2023
+2023-12-03,Rent,CitySpaces,1521.37,Rent for December 2023
+2023-12-03,Payroll,Staff Salaries,7125.44,Payroll for December 2023
+2023-12-03,Marketing,AdWorks,1774.34,Marketing for December 2023
+2023-12-03,Utilities,WaterWorks,402.04,Utilities for December 2023
+2023-12-03,Software,Microsoft,308.21,Software for December 2023
+2023-12-03,Shipping,FastShip,787.29,Shipping for December 2023
+2023-12-03,Miscellaneous,OfficeMart,354.66,Miscellaneous for December 2023
+2024-01-03,Rent,CitySpaces,1590.65,Rent for January 2024
+2024-01-03,Payroll,Staff Salaries,5646.08,Payroll for January 2024
+2024-01-03,Marketing,SocialBuzz,1150.02,Marketing for January 2024
+2024-01-03,Utilities,WaterWorks,450.43,Utilities for January 2024
+2024-01-03,Software,Adobe,307.02,Software for January 2024
+2024-01-03,Shipping,Postal,680.5,Shipping for January 2024
+2024-01-03,Miscellaneous,OfficeMart,308.97,Miscellaneous for January 2024
+2024-02-03,Rent,CitySpaces,1491.9,Rent for February 2024
+2024-02-03,Payroll,Staff Salaries,5426.04,Payroll for February 2024
+2024-02-03,Marketing,AdWorks,1172.08,Marketing for February 2024
+2024-02-03,Utilities,PowerCo,430.14,Utilities for February 2024
+2024-02-03,Software,CloudSuite,295.97,Software for February 2024
+2024-02-03,Shipping,Postal,660.85,Shipping for February 2024
+2024-02-03,Miscellaneous,General Supplies,297.23,Miscellaneous for February 2024
+2024-03-03,Rent,CitySpaces,1445.05,Rent for March 2024
+2024-03-03,Payroll,Staff Salaries,7105.03,Payroll for March 2024
+2024-03-03,Marketing,AdWorks,1351.38,Marketing for March 2024
+2024-03-03,Utilities,GasGrid,559.77,Utilities for March 2024
+2024-03-03,Software,CloudSuite,350.75,Software for March 2024
+2024-03-03,Shipping,DHL,616.21,Shipping for March 2024
+2024-03-03,Miscellaneous,OfficeMart,335.7,Miscellaneous for March 2024
+2024-04-03,Rent,ABC Properties,1496.58,Rent for April 2024
+2024-04-03,Payroll,Staff Salaries,6444.39,Payroll for April 2024
+2024-04-03,Marketing,SocialBuzz,1208.34,Marketing for April 2024
+2024-04-03,Utilities,PowerCo,558.34,Utilities for April 2024
+2024-04-03,Software,CloudSuite,267.54,Software for April 2024
+2024-04-03,Shipping,FastShip,650.05,Shipping for April 2024
+2024-04-03,Miscellaneous,General Supplies,407.53,Miscellaneous for April 2024
+2024-05-03,Rent,ABC Properties,1407.6,Rent for May 2024
+2024-05-03,Payroll,Staff Salaries,6755.83,Payroll for May 2024
+2024-05-03,Marketing,AdWorks,1324.16,Marketing for May 2024
+2024-05-03,Utilities,GasGrid,471.89,Utilities for May 2024
+2024-05-03,Software,Microsoft,305.75,Software for May 2024
+2024-05-03,Shipping,DHL,765.7,Shipping for May 2024
+2024-05-03,Miscellaneous,General Supplies,318.74,Miscellaneous for May 2024
+2024-06-03,Rent,ABC Properties,1425.55,Rent for June 2024
+2024-06-03,Payroll,Staff Salaries,6848.16,Payroll for June 2024
+2024-06-03,Marketing,SocialBuzz,951.67,Marketing for June 2024
+2024-06-03,Utilities,WaterWorks,513.75,Utilities for June 2024
+2024-06-03,Software,Microsoft,309.1,Software for June 2024
+2024-06-03,Shipping,DHL,710.71,Shipping for June 2024
+2024-06-03,Miscellaneous,OfficeMart,292.93,Miscellaneous for June 2024
+2024-07-03,Rent,ABC Properties,1307.01,Rent for July 2024
+2024-07-03,Payroll,Staff Salaries,6240.92,Payroll for July 2024
+2024-07-03,Marketing,SocialBuzz,1296.89,Marketing for July 2024
+2024-07-03,Utilities,GasGrid,356.55,Utilities for July 2024
+2024-07-03,Software,Microsoft,323.65,Software for July 2024
+2024-07-03,Shipping,Postal,674.8,Shipping for July 2024
+2024-07-03,Miscellaneous,General Supplies,342.18,Miscellaneous for July 2024
+2024-08-03,Rent,ABC Properties,1538.04,Rent for August 2024
+2024-08-03,Payroll,Staff Salaries,6675.06,Payroll for August 2024
+2024-08-03,Marketing,SocialBuzz,1114.51,Marketing for August 2024
+2024-08-03,Utilities,PowerCo,478.12,Utilities for August 2024
+2024-08-03,Software,CloudSuite,230.42,Software for August 2024
+2024-08-03,Shipping,Postal,668.47,Shipping for August 2024
+2024-08-03,Miscellaneous,OfficeMart,355.38,Miscellaneous for August 2024
+2024-09-03,Rent,ABC Properties,1448.26,Rent for September 2024
+2024-09-03,Payroll,Staff Salaries,5312.51,Payroll for September 2024
+2024-09-03,Marketing,AdWorks,1290.96,Marketing for September 2024
+2024-09-03,Utilities,WaterWorks,393.82,Utilities for September 2024
+2024-09-03,Software,Microsoft,297.97,Software for September 2024
+2024-09-03,Shipping,Postal,710.71,Shipping for September 2024
+2024-09-03,Miscellaneous,OfficeMart,350.69,Miscellaneous for September 2024
+2024-10-03,Rent,ABC Properties,1675.35,Rent for October 2024
+2024-10-03,Payroll,Staff Salaries,6465.38,Payroll for October 2024
+2024-10-03,Marketing,SocialBuzz,1251.29,Marketing for October 2024
+2024-10-03,Utilities,PowerCo,447.48,Utilities for October 2024
+2024-10-03,Software,Microsoft,318.39,Software for October 2024
+2024-10-03,Shipping,DHL,797.54,Shipping for October 2024
+2024-10-03,Miscellaneous,OfficeMart,354.81,Miscellaneous for October 2024
+2024-11-03,Rent,ABC Properties,1617.28,Rent for November 2024
+2024-11-03,Payroll,Staff Salaries,7445.96,Payroll for November 2024
+2024-11-03,Marketing,SocialBuzz,1839.86,Marketing for November 2024
+2024-11-03,Utilities,GasGrid,432.66,Utilities for November 2024
+2024-11-03,Software,Microsoft,331.09,Software for November 2024
+2024-11-03,Shipping,FastShip,968.51,Shipping for November 2024
+2024-11-03,Miscellaneous,General Supplies,389.1,Miscellaneous for November 2024
+2024-12-03,Rent,ABC Properties,1585.3,Rent for December 2024
+2024-12-03,Payroll,Staff Salaries,6679.18,Payroll for December 2024
+2024-12-03,Marketing,SocialBuzz,1690.3,Marketing for December 2024
+2024-12-03,Utilities,WaterWorks,461.49,Utilities for December 2024
+2024-12-03,Software,CloudSuite,308.83,Software for December 2024
+2024-12-03,Shipping,FastShip,929.99,Shipping for December 2024
+2024-12-03,Miscellaneous,OfficeMart,341.19,Miscellaneous for December 2024
+2025-01-03,Rent,CitySpaces,1764.48,Rent for January 2025
+2025-01-03,Payroll,Staff Salaries,6810.39,Payroll for January 2025
+2025-01-03,Marketing,AdWorks,1131.2,Marketing for January 2025
+2025-01-03,Utilities,PowerCo,437.52,Utilities for January 2025
+2025-01-03,Software,Microsoft,331.69,Software for January 2025
+2025-01-03,Shipping,DHL,648.47,Shipping for January 2025
+2025-01-03,Miscellaneous,General Supplies,298.13,Miscellaneous for January 2025
+2025-02-03,Rent,CitySpaces,1288.73,Rent for February 2025
+2025-02-03,Payroll,Staff Salaries,5376.17,Payroll for February 2025
+2025-02-03,Marketing,AdWorks,1044.14,Marketing for February 2025
+2025-02-03,Utilities,PowerCo,396.86,Utilities for February 2025
+2025-02-03,Software,Adobe,341.56,Software for February 2025
+2025-02-03,Shipping,FastShip,696.77,Shipping for February 2025
+2025-02-03,Miscellaneous,OfficeMart,337.29,Miscellaneous for February 2025
+2025-03-03,Rent,CitySpaces,1283.49,Rent for March 2025
+2025-03-03,Payroll,Staff Salaries,6406.97,Payroll for March 2025
+2025-03-03,Marketing,SocialBuzz,991.52,Marketing for March 2025
+2025-03-03,Utilities,WaterWorks,433.38,Utilities for March 2025
+2025-03-03,Software,CloudSuite,361.93,Software for March 2025
+2025-03-03,Shipping,Postal,746.47,Shipping for March 2025
+2025-03-03,Miscellaneous,General Supplies,342.66,Miscellaneous for March 2025
+2025-04-03,Rent,ABC Properties,1604.72,Rent for April 2025
+2025-04-03,Payroll,Staff Salaries,6161.0,Payroll for April 2025
+2025-04-03,Marketing,SocialBuzz,1103.92,Marketing for April 2025
+2025-04-03,Utilities,WaterWorks,526.69,Utilities for April 2025
+2025-04-03,Software,CloudSuite,265.73,Software for April 2025
+2025-04-03,Shipping,Postal,675.21,Shipping for April 2025
+2025-04-03,Miscellaneous,OfficeMart,360.71,Miscellaneous for April 2025
+2025-05-03,Rent,CitySpaces,1359.56,Rent for May 2025
+2025-05-03,Payroll,Staff Salaries,6922.89,Payroll for May 2025
+2025-05-03,Marketing,AdWorks,1163.21,Marketing for May 2025
+2025-05-03,Utilities,PowerCo,479.88,Utilities for May 2025
+2025-05-03,Software,Microsoft,317.58,Software for May 2025
+2025-05-03,Shipping,Postal,682.99,Shipping for May 2025
+2025-05-03,Miscellaneous,General Supplies,409.87,Miscellaneous for May 2025
+2025-06-03,Rent,CitySpaces,1400.2,Rent for June 2025
+2025-06-03,Payroll,Staff Salaries,7376.77,Payroll for June 2025
+2025-06-03,Marketing,AdWorks,1340.99,Marketing for June 2025
+2025-06-03,Utilities,WaterWorks,529.69,Utilities for June 2025
+2025-06-03,Software,Adobe,305.22,Software for June 2025
+2025-06-03,Shipping,DHL,644.8,Shipping for June 2025
+2025-06-03,Miscellaneous,OfficeMart,422.69,Miscellaneous for June 2025
+2025-07-03,Rent,ABC Properties,1449.79,Rent for July 2025
+2025-07-03,Payroll,Staff Salaries,5971.2,Payroll for July 2025
+2025-07-03,Marketing,AdWorks,1177.23,Marketing for July 2025
+2025-07-03,Utilities,WaterWorks,405.82,Utilities for July 2025
+2025-07-03,Software,Adobe,315.78,Software for July 2025
+2025-07-03,Shipping,DHL,657.6,Shipping for July 2025
+2025-07-03,Miscellaneous,OfficeMart,339.94,Miscellaneous for July 2025
+2025-08-03,Rent,ABC Properties,1645.17,Rent for August 2025
+2025-08-03,Payroll,Staff Salaries,6905.4,Payroll for August 2025
+2025-08-03,Marketing,SocialBuzz,1201.87,Marketing for August 2025
+2025-08-03,Utilities,WaterWorks,457.69,Utilities for August 2025
+2025-08-03,Software,Microsoft,300.37,Software for August 2025
+2025-08-03,Shipping,FastShip,669.82,Shipping for August 2025
+2025-08-03,Miscellaneous,OfficeMart,349.91,Miscellaneous for August 2025
